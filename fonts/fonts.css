@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'DroidSerif-Italic';
+    src: 
+        url('DroidSerif-Italic.ttf') format('otf'),
+        url('DroidSerif-Italic.woff') format('woff'),
+        url('DroidSerif-Italic.woff2') format('woff2'),
+        url('DroidSerif-Italic.eot') format('eot'),
+        url('DroidSerif-Italic.svg') format('svg'),
+        url('DroidSerif-Italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: 
+        url('Montserrat-Bold.otf') format('otf'),
+        url('Montserrat-Bold.woff') format('woff'),
+        url('Montserrat-Bold.woff2') format('woff2'),
+        url('Montserrat-Bold.eot') format('eot'),
+        url('Montserrat-Bold.svg') format('svg'),
+        url('Montserrat-Bold.ttf') format('ttf');
+        
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: 
+        url('Montserrat-Regular.otf') format('otf'),
+        url('Montserrat-Regular.woff') format('woff'),
+        url('Montserrat-Regular.woff2') format('woff2'),
+        url('Montserrat-Regular.eot') format('eot'),
+        url('Montserrat-Regular.svg') format('svg'),
+        url('Montserrat-Regular.ttf') format('ttf');
+        
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'RobotoSlab-Regular';
+    src: 
+        url('RobotoSlab-Regular.otf') format('otf'),
+        url('RobotoSlab-Regular.woff') format('woff'),
+        url('RobotoSlab-Regular.woff2') format('woff2'),
+        url('RobotoSlab-Regular.eot') format('eot'),
+        url('RobotoSlab-Regular.svg') format('svg'),
+        url('RobotoSlab-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ico-fonts';
+    src: 
+        url('ico-fonts.otf') format('otf'),
+        url('ico-fonts.woff') format('woff'),
+        url('ico-fonts.woff2') format('woff2'),
+        url('ico-fonts.eot') format('eot'),
+        url('ico-fonts.svg') format('svg'),
+        url('ico-fonts.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
